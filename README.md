@@ -1,1 +1,1 @@
-# -python
+在UVM寄存器模型生成时使用的python 脚本
