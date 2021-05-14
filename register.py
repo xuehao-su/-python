@@ -1,6 +1,10 @@
 #This file is designed to convert register file to UVM register model sv file
 
+<<<<<<< HEAD
 #version 1.0.1
+=======
+#version 1.1
+>>>>>>> e76962d135874d0395c4e43b08c73f5be0fba227
 
 #modify number start
 #modify add reg function
